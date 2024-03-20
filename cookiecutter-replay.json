@@ -1,0 +1,19 @@
+{
+  "cookiecutter": {
+    "_copy_without_render": [
+        "*.csv",
+        "*.png",
+        "*.svg"
+    ],
+    "_output_dir": "/Users/dlibland/dev",
+    "author": "David Li-Bland",
+    "author_email": "david.libland@gmail.com",
+    "description": "This Repo contains python implementations of simple (hand-solvable) ciphers. This is not intended to be used for serious crytography, but rather to make fun (and solvable) puzzles.",
+    "name": "davidlibland/pycipher",
+    "package": "pycipher",
+    "project_slug": "pycipher",
+    "project_url": "https://github.com/davidlibland/pycipher",
+    "short_name": "Simple Ciphers in Python",
+    "upstream_org": "davidlibland"
+}
+}
